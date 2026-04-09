@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2951d406b2940288b491016cddc8aa7, type: 3}
+  m_Name: ClosurePopUp
+  m_EditorClassIdentifier: Assembly-CSharp::UI.Popup.PopupConfigSO
+  Title: Close Popup
+  Body: Are you sure?
+  Buttons:
+  - Label: Yes
+    OnClick:
+      m_PersistentCalls:
+        m_Calls: []
+    CloseOnClick: 1
+  - Label: No
+    OnClick:
+      m_PersistentCalls:
+        m_Calls: []
+    CloseOnClick: 1
