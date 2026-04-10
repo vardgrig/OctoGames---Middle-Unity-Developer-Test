@@ -8,11 +8,11 @@
 
 -----------------------------------------------------------------------------
 
-## [QuestionsAndAnswers](QuestionsAndAnswers)
+## [QuestionsAndAnswers](QuestionsAndAnswers.md)
 
-## [UnityPopupPrefabQuestion](UnityPopupPrefabQuestion)
+## [UnityPopupPrefabQuestion](UnityPopupPrefabQuestion.md)
 
-## [CharactersViewBugs](CharactersViewBugs)
+## [CharactersViewBugs](CharactersViewBugs.md)
 
 -----------------------------------------------------------------------------
 
